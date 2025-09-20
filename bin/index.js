@@ -6,7 +6,7 @@ const projectName = process.argv[2] || "my-app";
 
 console.log(`🚀 Creating a new project: ${projectName}...`);
 
-const repo = "Jitesh02/Bluent-Template"; 
+const repo = "https://github.com/Jitesh02/Bluent-Template"; 
 const emitter = degit(repo);
 
 try {
