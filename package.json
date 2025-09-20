@@ -1,11 +1,11 @@
 {
-  "name": "bluent-template",
+  "name": "create-bluent-template",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-bluent-template": "./bin/index.js"
+    "create-bluent-template": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
