@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import degit from "degit";
 
 async function main() {
